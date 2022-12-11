@@ -12,11 +12,21 @@ my name is Max, I am 25 years old, my main goal in life is to learn web programm
 
 ### **SKILLS:**
 
-HTML
-* CSS (Bootstrap, SASS/SCSS, BEM)
-===
-* JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
-===
-* Git/GitHub
-===
-* Avocode, Zeplin, Photoshop
+* HTML5
+* CSS3 (Bootstrap, SASS/SCSS, BEM)
+* JavaScript (Fundamentals)
+* Git/GitHub, VSCode
+* Avocode, Zeplin, Photoshop, Figma
+
+### **COURSES:**
+
+* **Udemy:**
+ + HTML/CSS (completed)
+ * JavaScript Manual on learnjavascript.ru (in progress)
+ * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+### **LANGUAGES:**
+
+* *Belarussian* - native
+* *Russian* - native
+* *English* - A1 (in progress...)
