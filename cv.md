@@ -1,5 +1,5 @@
 # Max Khliustou
 
-## 
+## **CONTACT INFORMATION:**
 
 ###
