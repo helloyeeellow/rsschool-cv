@@ -21,7 +21,7 @@ my name is ***Max***, I am 25 years old, my main goal in life is to learn web pr
 ### **COURSES:**
 
 * **Udemy:**
- + HTML/CSS (***completed***)
+ - HTML/CSS (***completed***)
  * JavaScript Manual on learnjavascript.ru (***in progress***)
  * RS Schools Course «JavaScript/Front-end. Stage 0» (***in progress***)
 
