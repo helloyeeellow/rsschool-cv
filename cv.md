@@ -29,4 +29,4 @@ My name is ***Max***, I am 25 years old, my main goal in life is to learn web pr
 
 * *Belarussian* - native
 * *Russian* - native
-* *English* - A1 (in progress...)
+* *English* - A1 (in progress...) 
