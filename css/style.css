@@ -1,0 +1,14 @@
+body {
+  /* padding-bottom: 24px; */
+
+  font-family: 'Roboto', sans-serif;
+
+  background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+
+  background-repeat: no-repeat;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}

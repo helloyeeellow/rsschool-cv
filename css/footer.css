@@ -1,0 +1,42 @@
+.footer {
+  padding-top: 42px;
+  padding-left: 32px;
+  padding-bottom: 32px;
+}
+.footer__wrapper {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+}
+
+/* .footer__list-github {
+}
+
+.footer__item-github {
+} */
+
+.footer__link {
+  font-size: 24px;
+  font-weight: 400;
+  text-shadow: 0 0 1px;
+
+  color: rgba(112, 112, 112, 0.852);
+}
+.footer__list-dates {
+  font-size: 18px;
+  font-weight: 400;
+  text-shadow: 0 0 1px;
+
+  color: rgba(32, 32, 32, 0.852);
+}
+
+.footer__logo {
+  margin-left: 42px;
+  width: 132px;
+  height: 132px;
+
+  background-image: url('/rsschool-cv/assets/img/footer/rs_school_bg.svg');
+  background-position: center;
+  background-size: 100px, cover;
+  background-repeat: no-repeat;
+}

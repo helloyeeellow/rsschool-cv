@@ -1,0 +1,31 @@
+.skills {
+  padding-top: 24px;
+}
+
+.skills__wrapper {
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+  row-gap: 34px;
+}
+
+.skills__list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+
+  font-size: 18px;
+  font-weight: 400;
+  text-shadow: 0 0 1px;
+
+  color: rgba(32, 32, 32, 0.852);
+}
+.skills__link {
+  margin-left: 6px;
+  font-size: 18px;
+  font-weight: 400;
+  text-shadow: 0 0 1px;
+
+  color: rgba(112, 112, 112, 0.852);
+}
