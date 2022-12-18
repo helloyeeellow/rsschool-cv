@@ -1,0 +1,23 @@
+.contacts {
+  padding-top: 62px;
+}
+
+.contacts__wrapper {
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+  row-gap: 34px;
+}
+
+.contacts__list {
+  display: flex;
+  gap: 12px;
+}
+.contacts__link {
+  font-size: 18px;
+  font-weight: 400;
+  text-shadow: 0 0 1px;
+
+  color: rgba(112, 112, 112, 0.852);
+}
